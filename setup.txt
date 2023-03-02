@@ -1,0 +1,4 @@
+// npx degit sveltejs/template svelte-basic =>  cloned sveltejs/template#HEAD to svelte-basic
+// cd svelte-basic
+// npm install
+// npm run dev
